@@ -1,4 +1,4 @@
-# OpportunityOS
+# Smart_Student_career_Matcher (OpportunityOS)
 
 ## Problem
 Students frequently miss valuable internships, hackathons, scholarships, certifications, and competitions because information is scattered across websites, social media platforms, college groups, and other sources.
